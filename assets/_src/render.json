@@ -12,7 +12,7 @@
     {
       "type": "banner",
       "file": "banner.png",
-      "kicker": "Case Study · EdTech · Iraq",
+      "kicker": "EdTech · Iraq",
       "subtitle": "Books, study booklets, ministerial exams, schedules and results for Iraqi students, in one Arabic app.",
       "screens": [
         "screens/04.jpg",
