@@ -1,0 +1,111 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Malazmna",
+    "tagline": "Every book, study booklet and ministerial exam an Iraqi student needs, in one Arabic app.",
+    "accent": "#6C6CF5",
+    "accent2": "#2B8BE0",
+    "logo": "logo.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · EdTech · Iraq",
+      "subtitle": "Books, study booklets, ministerial exams, schedules and results for Iraqi students, in one Arabic app.",
+      "screens": [
+        "screens/04.jpg",
+        "screens/01.jpg",
+        "screens/12.jpg"
+      ],
+      "devices": [
+        "android",
+        "android",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "Android",
+        "Arabic RTL",
+        "Dark mode",
+        "2022"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-study.png",
+      "title": "Study materials, organised by grade",
+      "screens": [
+        "screens/01.jpg",
+        "screens/02.jpg",
+        "screens/04.jpg",
+        "screens/05.jpg",
+        "screens/06.jpg"
+      ],
+      "device": "android",
+      "cols": 5
+    },
+    {
+      "type": "gallery",
+      "file": "screens-dark.png",
+      "title": "Full dark mode, side menu and settings",
+      "screens": [
+        "screens/12.jpg",
+        "screens/14.jpg",
+        "screens/13.jpg",
+        "screens/11.jpg",
+        "screens/10.jpg"
+      ],
+      "device": "android",
+      "cols": 5
+    },
+    {
+      "type": "feature",
+      "file": "feature-downloads.png",
+      "kicker": "Signature feature",
+      "title": "From category to PDF in two taps",
+      "points": [
+        "Grade → subject → book, booklet or past paper",
+        "Each file offers a direct download or a Telegram mirror",
+        "Ministerial exams grouped by year (2011 → 2021)",
+        "Same flow in light and dark themes"
+      ],
+      "screens": [
+        "screens/02.jpg",
+        "screens/06.jpg"
+      ],
+      "devices": [
+        "android",
+        "android"
+      ]
+    },
+    {
+      "type": "feature",
+      "file": "feature-calendar.png",
+      "kicker": "Exam season tools",
+      "title": "Holidays countdown & results centre",
+      "points": [
+        "Live countdown (days · hours · minutes · seconds) to each holiday",
+        "Results centre links for every exam round",
+        "Schedules and timings pages for the school year",
+        "Shortcut to the Malazmna website from the side menu"
+      ],
+      "screens": [
+        "screens/09.jpg",
+        "screens/08.jpg"
+      ],
+      "devices": [
+        "android",
+        "android"
+      ]
+    },
+    {
+      "type": "html",
+      "file": "demo-video.png",
+      "width": 1600,
+      "height": 760,
+      "body": "<div class='grid-bg'></div><div style='position:absolute;inset:0;display:flex;align-items:center;gap:80px;padding:0 110px'><div style='flex:1;display:flex;flex-direction:column;gap:24px'><div class='accent' style='font-size:24px;font-weight:600'>Demo video</div><div class='title' style='font-size:60px'>Watch Malazmna in action</div><div style='font-size:28px;opacity:.85;line-height:1.4'>A screen recording of the released app: navigation, study materials, holidays countdown and dark mode.</div><div style='font-size:24px;opacity:.6'>youtu.be/QEL1GZai3H8</div></div><div style='position:relative;width:760px;border-radius:24px;overflow:hidden;box-shadow:0 0 0 1px #ffffff22,0 50px 100px -30px #000d,0 0 140px -40px #6C6CF588'><img src='file:///D:/shaker-github/repos/malazmna/assets/_src/yt.jpg' style='display:block;width:100%'><div style='position:absolute;inset:0;display:flex;align-items:center;justify-content:center'><div style='width:130px;height:92px;border-radius:26px;background:#FF0033;display:flex;align-items:center;justify-content:center;box-shadow:0 20px 50px #0009'><div style='width:0;height:0;border-left:38px solid #fff;border-top:23px solid transparent;border-bottom:23px solid transparent;margin-left:8px'></div></div></div></div></div>"
+    }
+  ]
+}
